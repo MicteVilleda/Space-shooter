@@ -6,7 +6,9 @@ An exciting space shooter game developed with Python and Pygame.
 
 ## 🛠️ Installation
 1. Clone the repository: `git clone https://github.com/MicteVilleda/Space-shooter.git`
-2. Install dependencies: `pip install -r requirements.txt`
+2. Install dependencies:
+   - As user: `pip install -r requirements.txt`
+   - As dev: `pip install -r requirements-dev.txt`
 3. Run the game: `python code/main.py`
 
 ## 🎮 Controls

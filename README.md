@@ -10,5 +10,5 @@ An exciting space shooter game developed with Python and Pygame.
 3. Run the game: `python code/main.py`
 
 ## 🎮 Controls
-- **Move**: Arrow keys
+- **Move**: WASD
 - **Shoot:** Spacebar
